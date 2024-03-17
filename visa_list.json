@@ -1,0 +1,605 @@
+[
+  {
+    "country": "Spain",
+    "visa_cost": "$265",
+    "income_requirements": "at least $2,215 per month",
+    "visa_length": "One year, with the chance to reapply for up to four additional years.",
+    "citizens_that_qualify": "Anyone that isn’t an EU/EEA/Swiss national.",
+    "apply_remotely": "Yes, you can apply while abroad.",
+    "bonus": "This new visa will allow remote workers to live in Spain for up to a year, with the possibility of an extension"
+  },
+  {
+    "country": "Portugal",
+    "visa_cost": "The exact amount is unknown, but you can expect to pay around $190 for your initial visa application.",
+    "income_requirements": "at least $2,950 a month.",
+    "visa_length": "One year, extended for up to 4 years.",
+    "citizens_that_qualify": "Anyone can apply. However, if you are from the EU, an EEA country, or Switzerland, you do not need a visa to enter, live, and work in Portugal.",
+    "apply_remotely": "Yes, you can apply anywhere in the world at the closes Portuguese Embassy.",
+    "bonus": "It has a standard tax rate of 15%, and Portugal offers an affordable cost of living and excellent visa conditions"
+  },
+  {
+    "country": "Italy",
+    "visa_cost": "Unknown (TBA)",
+    "income_requirements": "Unknown (TBA)",
+    "visa_length": "One year with the possibility to extend.",
+    "citizens_that_qualify": "Non-EU citizens",
+    "apply_remotely": "Unknown; applications are not open yet.",
+    "bonus": "Italy offers great infrastructure, excellent work-life balance, and a fantastic Mediterranean climate."
+  },
+  {
+    "country": "Croatia",
+    "visa_cost": "$73 for the visa and $66 for the temporary residence.",
+    "income_requirements": "At least $2,658 per month",
+    "visa_length": "From 6 months to One year.",
+    "citizens_that_qualify": "Anyone that is not a citizen of an EU or EEA country.",
+    "apply_remotely": "Yes! You can submit your application online while living abroad.",
+    "bonus": "You may apply with your family. Additionally, the Croatian government will not charge you any income tax."
+  },
+  {
+    "country": "Germany",
+    "visa_cost": "$105",
+    "income_requirements": "Enough to be self-sustainable",
+    "visa_length": "Up to three years",
+    "citizens_that_qualify": "Those working in certain liberal professions",
+    "apply_remotely": "You must apply at your local German embassy",
+    "bonus": "Your German Freelance visa entitles you to temporary residence in Germany for up to three years."
+  },
+  {
+    "country": "Greece",
+    "visa_cost": "$79",
+    "income_requirements": "$3,690 per month.",
+    "visa_length": "One year with the possibility to extend.",
+    "citizens_that_qualify": "Non-EU citizens",
+    "apply_remotely": "Yes, but you must apply at a Greek Embassy or Consulate.",
+    "bonus": "The visa is easy to obtain, and it gives you permission to live and work from Greece, and you can also travel freely in the Schengen area. You may also be eligible for a 50% tax reduction."
+  },
+  {
+    "country": "Estonia",
+    "visa_cost": "$85",
+    "income_requirements": "$37,000",
+    "visa_length": "3 months",
+    "citizens_that_qualify": "Any foreigner! There are no nationalities restrictions.",
+    "apply_remotely": "Yes",
+    "bonus": "This visa allows remote workers to live in Estonia and legally work for their employer or company registered abroad."
+  },
+  {
+    "country": "Malta",
+    "visa_cost": "$316",
+    "income_requirements": "$2,850 per month",
+    "visa_length": "One year with the possibility to renew.",
+    "citizens_that_qualify": "Third-country nationals",
+    "apply_remotely": "Yes, but you must submit your application at the closest consular office of Malta.",
+    "bonus": "This visa lets you stay in Malta for up to 2 years. It has a nationwide 5G network, and English is one of the official languages."
+  },
+  {
+    "country": "Norway",
+    "visa_cost": "$632",
+    "income_requirements": "$37,680",
+    "visa_length": "2 years with the possibility to extend.",
+    "citizens_that_qualify": "Anyone; there are no nationality restrictions.",
+    "apply_remotely": "Yes! You can submit your application online.",
+    "bonus": "The processing time usually takes 15 days. Norway offers a unique and exciting experience with well-balanced work and leisure lifestyle."
+  },
+  {
+    "country": "France",
+    "visa_cost": "$106 approximately",
+    "income_requirements": "You need a minimum income of at least €615 per month.",
+    "visa_length": "1 year",
+    "citizens_that_qualify": "Non-EU or EEA citizens",
+    "apply_remotely": "Yes, you can apply online.",
+    "bonus": "14 days application timeline. You can move around other EU countries"
+  },
+  {
+    "country": "Iceland",
+    "visa_cost": "$96",
+    "income_requirements": "$7,763 per month",
+    "visa_length": "180 days (6 months)",
+    "citizens_that_qualify": "Anyone who works remotely",
+    "apply_remotely": "Yes, but applications are only received through the mail.",
+    "bonus": "You will not be subject to taxes with this visa. English is a commonly used language in Iceland, and the locals are open-minded and friendly."
+  },
+  {
+    "country": "Ireland",
+    "visa_cost": "$64 for a one-entry visa. $107 for a multiple-entry visa.",
+    "income_requirements": "There is no minimum income requirement, but you should make at least the average salary in Ireland, $4,050 a month.",
+    "visa_length": "90 days with the possibility to extend.",
+    "citizens_that_qualify": "There are only certain countries that need to apply for a visa in order to enter Ireland. Some countries, like the US, do not need a visa to enter.",
+    "apply_remotely": "Yes! You can apply online.",
+    "bonus": "It can be extended under special circumstances. US Citizens do not need a visa"
+  },
+  {
+    "country": "Romania",
+    "visa_cost": "Unknown",
+    "income_requirements": "$3,900 per month",
+    "visa_length": "One year, and it can be extended for one more year",
+    "citizens_that_qualify": "any Non-EU citizen",
+    "apply_remotely": "Yes",
+    "bonus": "The application process is straightforward and usually takes around 10 to 14 working days."
+  },
+  {
+    "country": "Netherlands",
+    "visa_cost": "The price varies, but you can expect to pay around $407 plus additional fees.",
+    "income_requirements": "Approximately $1,340 per month.",
+    "visa_length": "90 days or more.",
+    "citizens_that_qualify": "anyone can apply, but citizens from specific nations will be in a better position to qualify for the self-employed residence permit.",
+    "apply_remotely": "Yes, but you must apply at the closest Dutch embassy or consulate.",
+    "bonus": "You can work in the Netherlands as a self-employed person and even launch a startup. You may also work for Dutch companies on a freelance basis, and if you have existing clients in the Netherlands, it may help you to obtain Dutch residency."
+  },
+  {
+    "country": "Georgia",
+    "visa_cost": "No cost!",
+    "income_requirements": "$2,000 per month.",
+    "visa_length": "One year",
+    "citizens_that_qualify": "Citizens of one of these 95 countries.",
+    "apply_remotely": "Yes! The application process can be conducted entirely online.",
+    "bonus": "This program does not have a visa fee, and you can apply with your family."
+  },
+  {
+    "country": "Czech Republic",
+    "visa_cost": "Around $117 plus $46 for the trade license.",
+    "income_requirements": "You must have at least $5200 in your bank account.",
+    "visa_length": "One year with the possibility of extension.",
+    "citizens_that_qualify": "Non-EU Citizens",
+    "apply_remotely": "Yes, you can apply at your local embassy or consulate, but be aware that it takes a long time.",
+    "bonus": "You can apply with your family. The Czech Republic is a very welcoming country with an excellent work-life balance."
+  },
+  {
+    "country": "Hungary",
+    "visa_cost": "$116",
+    "income_requirements": "$2,110 per month.",
+    "visa_length": "One year with the possibility of extension.",
+    "citizens_that_qualify": "Third-country nationals",
+    "apply_remotely": "Yes. While you can’t apply online, you may apply at the closest Hungarian embassy or consulate.",
+    "bonus": "It has a low monthly income requirement, and the application process usually does not take longer than a month."
+  },
+  {
+    "country": "Montenegro",
+    "visa_cost": "expected to be $26",
+    "income_requirements": "Unknown (TBA)",
+    "visa_length": "2 years with the possibility to extend.",
+    "citizens_that_qualify": "Citizens of countries that are not part of the European Union",
+    "apply_remotely": "Yes, but applications are not open yet.",
+    "bonus": "Anyone living in Montenegro under the digital nomad visa will be exempt from paying income tax in Montenegro."
+  },
+  {
+    "country": "Latvia",
+    "visa_cost": "approximately $65",
+    "income_requirements": "$3,020 per month",
+    "visa_length": "One year, and it can be renewed for another year.",
+    "citizens_that_qualify": "OECD countries",
+    "apply_remotely": "The application process is still unknown",
+    "bonus": "The visa will allow you to live in Latvia for up to 2 years. Additionally, Latvia is a very safe country to travel to."
+  },
+  {
+    "country": "Albania",
+    "visa_cost": "Albania uses a reciprocal system for determining the cost of visas. The visa fee is determined by the equivalent fee that an Albanian citizen would be expected to pay to apply for a visa for your home country.",
+    "income_requirements": "The minimum income for the Albania digital nomad visa is estimated to be $9,800 per year.",
+    "visa_length": "1 year",
+    "citizens_that_qualify": "Digital Nomads Self-Employed or Employed Abroad",
+    "apply_remotely": "Yes, you can apply online.",
+    "bonus": "You can extend the visa for one year, up to five times. Most long-term visa requests for Albania are approved within four to six weeks. Albania is 50% cheaper than the United States"
+  },
+  {
+    "country": "Cyprus",
+    "visa_cost": "$78",
+    "income_requirements": "$37,000 per year after taxes.",
+    "visa_length": "One year, and you can renew for two more years.",
+    "citizens_that_qualify": "non-EU and non-EEA citizens",
+    "apply_remotely": "Yes, you can apply online.",
+    "bonus": "This visa allows you to live in Cyprus while working remotely for up to 3 years. Cyprus \u200b\u200bhas an excellent quality of life and many business start-ups and taxation advantages."
+  },
+  {
+    "country": "Serbia",
+    "visa_cost": "Unknown (TBA)",
+    "income_requirements": "$3,500 a month",
+    "visa_length": "One year",
+    "citizens_that_qualify": "Anyone; there are no nationality restrictions.",
+    "apply_remotely": "Unknown (TBA)",
+    "bonus": "Digital nomads are exempt from tax for the first 90 days of stay."
+  },
+  {
+    "country": "Armenia",
+    "visa_cost": "From $270 to $360",
+    "income_requirements": "Digital nomads are not required to demonstrate any minimum income.",
+    "visa_length": "1 year",
+    "citizens_that_qualify": "No citizenship restrictions.",
+    "apply_remotely": "Yes, you can apply online.",
+    "bonus": "Can be renewed for up to 5 years. After the five years, you’re eligible for a permanent residency in Armenia. You can apply with your family (spouse and kids)."
+  },
+  {
+    "country": "North Macedonia",
+    "visa_cost": "The cost of the digital nomad visa has not been announced yet.",
+    "income_requirements": "The minimum income has not been announced yet.",
+    "visa_length": "There is no current information about the length of the North Macedonia digital nomad visa.",
+    "citizens_that_qualify": "Not available yet.",
+    "apply_remotely": "Applications are not open yet.",
+    "bonus": "North Macedonia has a low cost of living. Great internet connection"
+  },
+  {
+    "country": "Costa Rica",
+    "visa_cost": "$190",
+    "income_requirements": "at least $3,000 per month. $4,000 if applying with a family.",
+    "visa_length": "One year, can be extended for one more year.",
+    "citizens_that_qualify": "Anyone who meets the requirements",
+    "apply_remotely": "Yes! You can apply online or at an embassy.",
+    "bonus": "This visa will make you exempt from tax on utilities related to the income you receive from abroad."
+  },
+  {
+    "country": "Mexico",
+    "visa_cost": "$150 to $350, depending on the length of visa issued",
+    "income_requirements": "$2,600 per month",
+    "visa_length": "One year with the possibility to renew for another three years",
+    "citizens_that_qualify": "Nationals from all over the world",
+    "apply_remotely": "You must apply at a Mexican embassy or consulate outside of Mexico.",
+    "bonus": "Mexico has a low cost of living, and with the Temporary Resident Visa, you can live in Mexico for up to four years."
+  },
+  {
+    "country": "Panama",
+    "visa_cost": "$300",
+    "income_requirements": "Minimum annual income of $36,000",
+    "visa_length": "9 months with the possibility to extend for another nine months.",
+    "citizens_that_qualify": "Anyone; there are no nationality restrictions.",
+    "apply_remotely": "No, you must apply through an immigration lawyer in Panama.",
+    "bonus": "Panama is a tax-friendly country. You won’t be taxed for any income sourced from outside of Panama. Additionally, residing in Panama for nine months or more is enough time to apply for tax residency, which means you may be able to avoid paying taxes in your home country."
+  },
+  {
+    "country": "Belize",
+    "visa_cost": "Approximately $250.",
+    "income_requirements": "Minimum annual income of $75,000 for individuals or $100,000 for couples/families.",
+    "visa_length": "6 months with the possibility to extend",
+    "citizens_that_qualify": "There are no nationality restrictions",
+    "apply_remotely": "Yes, you can apply entirely online",
+    "bonus": "This program can be extended to families, and your kids can study in the country's school system."
+  },
+  {
+    "country": "El Salvador",
+    "visa_cost": "The El Salvador digital nomad visa will cost you approximately $2,825. This amount includes taxes, government fees, lawyer fees, translations, and all paperwork.",
+    "income_requirements": "You must earn a monthly income of at least $1,460.",
+    "visa_length": "2 years with the possibility to extend.",
+    "citizens_that_qualify": "There are no citizenship restrictions.",
+    "apply_remotely": "No, you must apply at an El Salvador embassy or consulate.",
+    "bonus": "You can extend your stay. You can apply with your family (Spouse and children.)"
+  },
+  {
+    "country": "Bali (Indonesia)",
+    "visa_cost": "From $295 to $650",
+    "income_requirements": "proof of funds of $140,000",
+    "visa_length": "60 days and up to 180 days. May be extended further.",
+    "citizens_that_qualify": "available to all nationalities.",
+    "apply_remotely": "Yes!",
+    "bonus": "You can extend your time multiple times. Bali offers an exciting and well-balanced lifestyle. Keep in mind that anybody who stays in Indonesia for more than 183 days a year qualifies as a local tax resident and must pay Indonesian tax rates on any income earned."
+  },
+  {
+    "country": "Thailand",
+    "visa_cost": "$600",
+    "income_requirements": "Earn $80,000 per year",
+    "visa_length": "10 years",
+    "citizens_that_qualify": "All nationalities are welcome to apply, but the requirements are very strict and selective.",
+    "apply_remotely": "Yes, you can apply online.",
+    "bonus": "If you stay in Thailand for less than six months, you will not need to pay any taxes. However, receiving the Long Term Residence Visa will only pay 17% tax."
+  },
+  {
+    "country": "Japan",
+    "visa_cost": "Not announced yet.",
+    "income_requirements": "Unknown, to be announced.",
+    "visa_length": "The exact length of the visa is unknown, but it is expected to be from about six months to two years.",
+    "citizens_that_qualify": "Japan has a visa exemption arrangement with 69 countries and regions. It is unknown if these will count for the digital nomad visa as well.",
+    "apply_remotely": "TBA",
+    "bonus": "TBA"
+  },
+  {
+    "country": "Dubai (United Arab Emirates, UAE)",
+    "visa_cost": "From $81 to $287",
+    "income_requirements": "Have a minimum of $5,000 per month salary.",
+    "visa_length": "One year",
+    "citizens_that_qualify": "There are no nationality restrictions",
+    "apply_remotely": "Yes, you can apply online.",
+    "bonus": "The scheme does not require sponsorship. Successful applicants are provided with a resident ID and access to most public services and facilities like other residents in the city."
+  },
+  {
+    "country": "Abu Dhabi (United Arab Emirates, UAE)",
+    "visa_cost": "The visa costs $287 per person.",
+    "income_requirements": "You need to earn a monthly income of no less than $3,500.",
+    "visa_length": "1 year",
+    "citizens_that_qualify": "There are no citizenship requirements",
+    "apply_remotely": "Not defined yet, but it is expected to be applicable online",
+    "bonus": "This visa does not require sponsorship. You receive an Emirates ID and access to most public services and facilities like other residents in the city."
+  },
+  {
+    "country": "South Korea",
+    "visa_cost": "The visa fee is approximately $54.",
+    "income_requirements": "Approximately $2,276.25",
+    "visa_length": "1 year.",
+    "citizens_that_qualify": "Only citizens from 25 countries can apply.",
+    "apply_remotely": "No, you can only apply for the Working Holiday Visa through an appointment in the Korean embassy.",
+    "bonus": "Aside from your digital nomad job, you can also work for a Korean company for 1300 hours that year. If you are from the US, you can extend for six months. If you’re from the UK, you can extend for one year."
+  },
+  {
+    "country": "Malaysia",
+    "visa_cost": "The tourist visa costs $25 if you are applying online. If you’re applying for the visa upon arrival, then a single-entry costs $25. For multiple-entry it costs $50.",
+    "income_requirements": "There are no minimum income requirements.",
+    "visa_length": "The visa is valid for 3 months, with the possibility to extend.",
+    "citizens_that_qualify": "Anyone can apply for the Vietnam tourist visa. There are only a few exemptions.",
+    "apply_remotely": "Yes, you can apply online. You can also apply upon arrival.",
+    "bonus": "You can extend your visa. It is incredibly easy to apply for the tourist visa."
+  },
+  {
+    "country": "Vietnam",
+    "visa_cost": "The tourist visa costs $25 if you are applying online. If you’re applying for the visa upon arrival, then a single-entry costs $25. For multiple-entry it costs $50.",
+    "income_requirements": "There are no minimum income requirements.",
+    "visa_length": "The visa is valid for 3 months, with the possibility to extend.",
+    "citizens_that_qualify": "Anyone can apply for the Vietnam tourist visa. There are only a few exemptions.",
+    "apply_remotely": "Yes, you can apply online. You can also apply upon arrival.",
+    "bonus": "You can extend your visa. It is incredibly easy to apply for the tourist visa."
+  },
+  {
+    "country": "Taiwan",
+    "visa_cost": "For US Citizens, $230 or one-year validity, $260 for two-year validity, and $300 for three-year validity. For other foreigners, $131 for one-year validity, $167 for two-year validity, and $202 for three-year validity.",
+    "income_requirements": "approximately $5,600 per month.",
+    "visa_length": "From 1 to 3 years.",
+    "citizens_that_qualify": "available to all nationalities",
+    "apply_remotely": "Yes, you can apply online",
+    "bonus": "This is an open-end visa, and you can choose the amount of time you wish to stay in the country."
+  },
+  {
+    "country": "Turkey",
+    "visa_cost": "$8.75 for the first month and $2.60 for each additional month of residence. $11 for printing the residence permit card and $70.50 for a single entry fee.",
+    "income_requirements": "Have at least $550 in your bank account for each month you spend in Turkey.",
+    "visa_length": "3 months and can be extended indefinitely",
+    "citizens_that_qualify": "Available to all nationalities",
+    "apply_remotely": "No, you can only apply once you’ve arrived in Turkey.",
+    "bonus": "You can apply for a family residence permit, a study residence permit, or a long-term residence permit. The long-term residence permit has an indefinite validity."
+  },
+  {
+    "country": "Goa (India)",
+    "visa_cost": "Unknown as of right now.",
+    "income_requirements": "To be announced.",
+    "visa_length": "Unknown",
+    "citizens_that_qualify": "Unknown",
+    "apply_remotely": "Not defined yet, but it is expected to be applicable online.",
+    "bonus": "Goa is relatively affordable.Great connectivity."
+  },
+  {
+    "country": "Sri Lanka",
+    "visa_cost": "The official visa cost is not announced yet.",
+    "income_requirements": "To be announced.",
+    "visa_length": "To be announced.",
+    "citizens_that_qualify": "To be announced.",
+    "apply_remotely": "It is unknown if you’ll be able to apply online, but since the tourist visa allows it, it is likely the digital nomad visa will as well.",
+    "bonus": "To be announced."
+  },
+  {
+    "country": "Colombia",
+    "visa_cost": "TBA",
+    "income_requirements": "approximately $750 per month",
+    "visa_length": "2 years",
+    "citizens_that_qualify": "No nationality restrictions",
+    "apply_remotely": "Yes",
+    "bonus": "You can apply with your family."
+  },
+  {
+    "country": "Brazil",
+    "visa_cost": "Unknown",
+    "income_requirements": "at least $1,500 a month",
+    "visa_length": "One year, and it can be renewed for an additional year",
+    "citizens_that_qualify": "There are no nationality restrictions.",
+    "apply_remotely": "No, you must apply in person.",
+    "bonus": "A good quality of life. It is rumored you’ll be able to apply with family soon."
+  },
+  {
+    "country": "Argentina",
+    "visa_cost": "Unknown (TBA)",
+    "income_requirements": "Unknown (TBA)",
+    "visa_length": "Rumored to be one year",
+    "citizens_that_qualify": "Unknown",
+    "apply_remotely": "Yes",
+    "bonus": "More details to be announced soon."
+  },
+  {
+    "country": "Ecuador",
+    "visa_cost": "$50 for the application and $400 for the visa granting.",
+    "income_requirements": "$1,275 per month.",
+    "visa_length": "Up to 2 years",
+    "citizens_that_qualify": "Citizens of 183 countries, including the U.S.",
+    "apply_remotely": "Yes, you can apply online.",
+    "bonus": "Any money you earn from outside the country is not taxed."
+  },
+  {
+    "country": "Peru",
+    "visa_cost": "The Peruvian temporary visa costs $30.",
+    "income_requirements": "Not applicable",
+    "visa_length": "Maximum of 183 days",
+    "citizens_that_qualify": "Anyone (Some countries may enter the country visa-free)",
+    "apply_remotely": "You must apply through the Peruvian embassy in your home country and set up an appointment.",
+    "bonus": "Tourist visas will allow you to stay in the country for 30, 60, 90, and 183-days.\\xa0 Many countries can enter Peru Visa-free, including the United States, European Union, Canada, and other countries. The Peruvian visa does not have a local income tax."
+  },
+  {
+    "country": "Barbados",
+    "visa_cost": "Visa Cost",
+    "income_requirements": "$50,000 per year",
+    "visa_length": "One year, and it can be extended for another year.",
+    "citizens_that_qualify": "Anyone can apply; there are no nationality restrictions.",
+    "apply_remotely": "Yes, the application is filled out online.",
+    "bonus": "The program is open to couples and families. Additionally, you only pay for the visa fee if it is approved."
+  },
+  {
+    "country": "Bermuda",
+    "visa_cost": "$263",
+    "income_requirements": "There is no specific amount; just make sure to have enough to support yourself.",
+    "visa_length": "One year",
+    "citizens_that_qualify": "Any foreign national. This visa has no restrictions based on citizenship.",
+    "apply_remotely": "Yes, the application process is entirely online.",
+    "bonus": "There is no specific income requirement. The visa also works for students. The application process takes a maximum of 10 business days."
+  },
+  {
+    "country": "Bahamas",
+    "visa_cost": "$25",
+    "income_requirements": "None",
+    "visa_length": "One year and can be renewed two more times.",
+    "citizens_that_qualify": "Anyone working remotely for companies outside the Bahamas.",
+    "apply_remotely": "Yes, you can apply online.",
+    "bonus": "The Bahamas is a tax-free island, and this visa does not require a minimum income."
+  },
+  {
+    "country": "Dominica",
+    "visa_cost": "$800 for a single person or $1200 for a family. Additionally, you’ll need to put down a deposit of $100.",
+    "income_requirements": "at least $50,000 per year.",
+    "visa_length": "up to 18 months",
+    "citizens_that_qualify": "Anyone; there are no nationality restrictions",
+    "apply_remotely": "Yes, you can apply online",
+    "bonus": "You may apply with your family. Plus, you’ll get duty-free goods and discounts from service providers."
+  },
+  {
+    "country": "Aruba",
+    "visa_cost": "There is no visa fee to pay.",
+    "income_requirements": "Unknown",
+    "visa_length": "3 months",
+    "citizens_that_qualify": "available to all nationalities. US citizens do not need a visa to enter Aruba for 90 days.",
+    "apply_remotely": "You must apply in a local or Dutch embassy",
+    "bonus": "You won’t be required to pay taxes in Aruba. You can apply with family and pets."
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "visa_cost": "$1,500 for individuals, $2,000 for couples, and $3,000 for a family of 3 or more.",
+    "income_requirements": "$50,000 per year",
+    "visa_length": "2 years",
+    "citizens_that_qualify": "There are no nationality restrictions",
+    "apply_remotely": "Yes, you can apply online",
+    "bonus": "You won’t be required to pay income taxes while living in the country."
+  },
+  {
+    "country": "Cayman Islands",
+    "visa_cost": "$1,469 per year and an extra $500 per dependent per year.",
+    "income_requirements": "$100,000 per year for individuals, $150,000 per year for couples, or $180,000 per year for a family of 1 or more children.",
+    "visa_length": "2 years",
+    "citizens_that_qualify": "Anyone; there are no nationality restrictions.",
+    "apply_remotely": "Yes, the application is made online.",
+    "bonus": "You can apply with your family and enjoy benefits like health care, access to schools, and well-developed infrastructure."
+  },
+  {
+    "country": "Anguilla",
+    "visa_cost": "$2,000 per individual or $3,000 per family, for students, the fee is $2,000.",
+    "income_requirements": "None",
+    "visa_length": "91 days to 12 months",
+    "citizens_that_qualify": "Anyone can apply",
+    "apply_remotely": "Yes, you can apply for this digital nomad visa from anywhere worldwide.",
+    "bonus": "You will not be charged any local income tax with this visa. You can also apply with your family. They also do not ask for any specific income as long as you have enough to sustain yourself and your family."
+  },
+  {
+    "country": "Curacao",
+    "visa_cost": "approximately $300 per person.",
+    "income_requirements": "enough to be self-sustainable",
+    "visa_length": "6 months, with an additional extension of 6 months.",
+    "citizens_that_qualify": "available to all nationalities",
+    "apply_remotely": "Yes, you can apply online.",
+    "bonus": "Curaçao offers an exciting and well-balanced work-leisure lifestyle. This visa allows you to apply with your family."
+  },
+  {
+    "country": "Saint Lucia",
+    "visa_cost": "$46 for a single-entry visa, $75 for a multiple-entry visa",
+    "income_requirements": "None",
+    "visa_length": "Up to 12 months",
+    "citizens_that_qualify": "Any foreign national",
+    "apply_remotely": "Yes",
+    "bonus": "They have single-entry or multiple-entry visa options. This program also offers tailored experiences to explore everything Saint Lucia has. Plus, there is no minimum income required."
+  },
+  {
+    "country": "Grenada",
+    "visa_cost": "$1,500 per person, $2000 for a family with three dependents, plus $200 per every additional dependent.",
+    "income_requirements": "Annual income of at least $37,000",
+    "visa_length": "One year with the possibility to extend for another year.",
+    "citizens_that_qualify": "There are no nationality restrictions",
+    "apply_remotely": "Yes, but applications are only received through the mail.",
+    "bonus": "You can enjoy the zero-income tax that Grenada offers."
+  },
+  {
+    "country": "Puerto Rico",
+    "visa_cost": "The ESTA visa costs $21.",
+    "income_requirements": "Not applicable",
+    "visa_length": "90 days",
+    "citizens_that_qualify": "There are approximately 40 nationalities that need an approved ESTA to visit Puerto Rico.",
+    "apply_remotely": "Yes, you can apply online.",
+    "bonus": "You only pay a flat rate of 4% in corporate taxes, with no state or federal taxes included. The visa application process lasts around 72 hours."
+  },
+  {
+    "country": "Montserrat",
+    "visa_cost": "$500 for individuals, $750 family of up to 3 dependents, and $250 for each additional family member.",
+    "income_requirements": "$70,000 per year",
+    "visa_length": "12 months",
+    "citizens_that_qualify": "Anyone; there are no nationality restrictions.",
+    "apply_remotely": "Yes, you can apply online.",
+    "bonus": "If you have the stamp, you won’t need to pay taxes in Montserrat. The application process is quick and straightforward. You’ll get approval in 7 business days."
+  },
+  {
+    "country": "South Africa",
+    "visa_cost": "Unknown (TBA)",
+    "income_requirements": "$3,000 per month.",
+    "visa_length": "One year",
+    "citizens_that_qualify": "Available to all nationalities",
+    "apply_remotely": "Yes",
+    "bonus": "The application process is not open yet, but it is expected to be straightforward and quick."
+  },
+  {
+    "country": "Mauritius",
+    "visa_cost": "Free of charge",
+    "income_requirements": "$1,500 per month as an individual. $3,000 per month as a couple. If you’re applying as a family, you’ll need $500 more per dependent under the age of 24.",
+    "visa_length": "One year with the possibility to extend",
+    "citizens_that_qualify": "There are 114 countries eligible to apply",
+    "apply_remotely": "Yes, you can apply online.",
+    "bonus": "You can apply with your family. This is a multi-entry visa, meaning you can come and go as you wish. Plus, the Premium Travel Visa does not have a processing fee."
+  },
+  {
+    "country": "Seychelles",
+    "visa_cost": "$47",
+    "income_requirements": "Unknown",
+    "visa_length": "One year",
+    "citizens_that_qualify": "Available to all nationalities.",
+    "apply_remotely": "Yes, the application process is conducted online.",
+    "bonus": "The requirements are straightforward and similar to many digital nomad visas. You can apply as an employee or a business owner."
+  },
+  {
+    "country": "Namibia",
+    "visa_cost": "Approximately $62 per person.",
+    "income_requirements": "$2,000 per month. Your spouse must earn at least $1,000 per month, and you must have a budget of $500 per month per child.",
+    "visa_length": "6 months, and it may be extended.",
+    "citizens_that_qualify": "Available to all nationalities.",
+    "apply_remotely": "Yes, you can apply from the comfort of your home.",
+    "bonus": "Namibia offers a quick and streamlined procedure to acquire a visa from the comfort of your home. The visa allows you to work, travel and study in Namibia."
+  },
+  {
+    "country": "Cabo Verde",
+    "visa_cost": "$21 visa fee and $31 airport fee.",
+    "income_requirements": "$1,800 per month as an individual, $2,800 per month as a family.",
+    "visa_length": "6 months, and it can be renewed.",
+    "citizens_that_qualify": "Anyone from Europe, North America, the Community of Portuguese-speaking Countries (CPLP), and the Economic Community of West African States (CEDEAO).",
+    "apply_remotely": "Yes.",
+    "bonus": "You can apply with your family. The island is blessed with year-round sun and hardly any rainfall."
+  },
+  {
+    "country": "Egypt",
+    "visa_cost": "The 5-year tourist visa will cost $700.",
+    "income_requirements": "To be announced.",
+    "visa_length": "5 years.",
+    "citizens_that_qualify": "There are 180 approved countries for this 5-year visa to Egypt. The full list has not been disclosed yet, but some of them are the US, the UK, Mexico, Australia, and more.",
+    "apply_remotely": "Yes, you must apply online for the 5-year visa.",
+    "bonus": "This is the very first time Egypt offers a visa for longer than one year. It will be a multiple-entry visa."
+  },
+  {
+    "country": "Australia",
+    "visa_cost": "The Visitor Visa costs $97 per person.",
+    "income_requirements": "There is no monthly income requirement, but you need to show bank statements with a closing balance of at least $3,262.",
+    "visa_length": "Up to 12 months.",
+    "citizens_that_qualify": "All nationalities, there is no citizenship restriction.",
+    "apply_remotely": "Yes, you must apply online.",
+    "bonus": "If you enter Australia with a Visitor Visa, you are not required to pay taxes. Australia is quickly becoming one of the most popular digital nomad destinations."
+  },
+  {
+    "country": "New Zealand",
+    "visa_cost": "Approximately $150 to $200.",
+    "income_requirements": "Have at least $2,700 in your bank account.",
+    "visa_length": "12 months (23 months if you’re from the UK or Canada).",
+    "citizens_that_qualify": "Young people aged between 18 and 35 of only certain nationalities.",
+    "apply_remotely": "Yes, you can apply online.",
+    "bonus": "Certain nationalities have a more accessible and quicker application process. You can work and live in New Zealand for up to a year, and that time can be extended if you’re from the UK or Canada."
+  }
+]
